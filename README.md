@@ -9,3 +9,4 @@ O aplicativo foi implementado na plataforma Android, utilizando a IDE Android St
 
 Para os testes foi utilizado um smartphone da marca Motorola, modelo Moto C Plus, rodando o Android na versão 7.0.
 
+O projeto do UnBBayes para Android está disponível em https://github.com/edumk/unbbayesandroid.
