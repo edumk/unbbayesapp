@@ -7,3 +7,5 @@ Estudos apontam para o aumento de acidentes em ambientes urbanos devido ao uso i
 
 O aplicativo foi implementado na plataforma Android, utilizando a IDE Android Studio versão 3.1.2.
 
+Para os testes foi utilizado um smartphone da marca Motorola, modelo Moto C Plus, rodando o Android na versão 7.0.
+
